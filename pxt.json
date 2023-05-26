@@ -1,0 +1,44 @@
+{
+    "name": "Monster's Spirit - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f4f4f4",
+        "#B30525",
+        "#a7f070",
+        "#D33F0D",
+        "#F0D000",
+        "#257179",
+        "#38b764",
+        "#101D56",
+        "#07268D",
+        "#0562AD",
+        "#566c86",
+        "#333c57",
+        "#94b0c2",
+        "#5d275d",
+        "#1a1c2c"
+    ]
+}
